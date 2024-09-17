@@ -46,7 +46,7 @@ public class AddPlaceApi {
                 .then().log().all().assertThat().statusCode(200)
                 .extract().response().asString();
 
-        JsonPath jsonPath1=ReUsableMethods.rowToJson(response);
+        JsonPath jsonPath1=ReUsableMethods.rowToJson(getPlaceResponse);
         String addressFromResponse = jsonPath1.getString("address");
 
         Assert.assertEquals(newAddress, addressFromResponse);
