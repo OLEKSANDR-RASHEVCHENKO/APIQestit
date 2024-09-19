@@ -1,6 +1,6 @@
-package Integration.SerializationAndDeserialization;
+package Integration.SerializationAndDeserialization.deserial;
 
-public class Mobile {
+public class Api {
     private String courseTitle;
     private String price;
 

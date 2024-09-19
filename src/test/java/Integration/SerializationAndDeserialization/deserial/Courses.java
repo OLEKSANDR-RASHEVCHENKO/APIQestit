@@ -1,4 +1,4 @@
-package Integration.SerializationAndDeserialization;
+package Integration.SerializationAndDeserialization.deserial;
 
 import java.util.List;
 

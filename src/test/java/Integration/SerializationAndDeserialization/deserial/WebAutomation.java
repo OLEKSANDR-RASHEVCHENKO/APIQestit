@@ -1,6 +1,6 @@
-package Integration.SerializationAndDeserialization;
+package Integration.SerializationAndDeserialization.deserial;
 
-public class Api {
+public class WebAutomation {
     private String courseTitle;
     private String price;
 

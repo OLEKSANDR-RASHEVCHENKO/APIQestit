@@ -1,9 +1,8 @@
-package Integration.SerializationAndDeserialization.oAuth;
+package Integration.SerializationAndDeserialization.deserial.oAuth;
 
-import Integration.SerializationAndDeserialization.Api;
-import Integration.SerializationAndDeserialization.GetCourse;
-import Integration.SerializationAndDeserialization.WebAutomation;
-import io.restassured.RestAssured;
+import Integration.SerializationAndDeserialization.deserial.Api;
+import Integration.SerializationAndDeserialization.deserial.GetCourse;
+import Integration.SerializationAndDeserialization.deserial.WebAutomation;
 import io.restassured.path.json.JsonPath;
 import org.testng.Assert;
 

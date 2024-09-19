@@ -1,4 +1,4 @@
-package Integration.SerializationAndDeserialization;
+package Integration.SerializationAndDeserialization.deserial;
 
 public class GetCourse {
     private String instructor;

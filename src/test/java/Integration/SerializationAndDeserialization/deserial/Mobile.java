@@ -1,6 +1,6 @@
-package Integration.SerializationAndDeserialization;
+package Integration.SerializationAndDeserialization.deserial;
 
-public class WebAutomation {
+public class Mobile {
     private String courseTitle;
     private String price;
 
